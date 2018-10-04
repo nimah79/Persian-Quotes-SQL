@@ -1,2 +1,2 @@
-# persian-quotes
+# Persian Quotes
 Persian Quotes in SQL format
